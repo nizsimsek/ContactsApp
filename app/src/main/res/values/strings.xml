@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ContactsApp</string>
+    <string name="name">İsim</string>
+    <string name="surname">Soyisim</string>
+    <string name="phone">Numara</string>
+    <string name="email">Email</string>
+    <string name="address" tools:ignore="Typos">Adres</string>
+    <string name="website">Website</string>
+    <string name="addperson">Kişiyi Ekle</string>
+    <string name="contactslist">Kişi Listesi</string>
+    <string name="btnNewText">Yeni</string>
+    <string name="deleteAllContacts">Tüm Rehberi Sil</string>
+    <string name="updatePerson">Kişiyi Güncelle</string>
+    <string name="contactDetails">Kişi Detayı</string>
+    <string name="btnUpdatePerson">Düzenle</string>
+    <string name="deletePerson">Kişiyi Sil</string>
+    <string name="search">Arama</string>
+    <string name="lblNumber">Numara :</string>
+    <string name="lblEmail">Email :</string>
+    <string name="lblAddress">Adres :</string>
+    <string name="lblWebsite">Website :</string>
+    <string name="lblName">Ad :</string>
+    <string name="lblSurname">Soyad :</string>
+</resources>
